@@ -1,0 +1,7 @@
+# Ignore files below
+
+__pycache__
+*.pyc
+.idea/
+.vscode/
+*.sqlite
